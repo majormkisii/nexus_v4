@@ -1,0 +1,1 @@
+print('Auth Service running')

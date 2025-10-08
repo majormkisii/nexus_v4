@@ -1,0 +1,1 @@
+console.log('Marketplace Service running');

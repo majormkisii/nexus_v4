@@ -1,0 +1,1 @@
+console.log('API Gateway running');
