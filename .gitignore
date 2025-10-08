@@ -1,1 +1,33 @@
-# Python, Node, Go, Rust, Java, etc.
+# Python
+__pycache__/
+*.py[cod]
+*.venv/
+venv/
+*.env
+
+# Node.js
+node_modules/
+dist/
+*.log
+
+# Rust
+target/
+
+# Go
+bin/
+*.exe
+
+# Java
+*.class
+.gradle/
+build/
+
+# Docker
+*.dockerfile
+docker-compose.override.yml
+
+# VS Code
+.vscode/
+
+# System
+.DS_Store
